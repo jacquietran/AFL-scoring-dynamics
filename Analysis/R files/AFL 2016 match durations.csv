@@ -1,0 +1,193 @@
+"matchID","season","round","homeTeam","awayTeam","gameDuration_s"
+"2016-03-24_R1_Richmond-v-Carlton",2016,1,"Richmond","Carlton",7443
+"2016-03-26_R1_Melbourne-v-Greater Western Sydney",2016,1,"Melbourne","Greater Western Sydney",7035
+"2016-03-26_R1_Gold Coast-v-Essendon",2016,1,"Gold Coast","Essendon",7059
+"2016-03-26_R1_North Melbourne-v-Adelaide",2016,1,"North Melbourne","Adelaide",7578
+"2016-03-26_R1_Sydney-v-Collingwood",2016,1,"Sydney","Collingwood",7451
+"2016-03-27_R1_Western Bulldogs-v-Fremantle",2016,1,"Western Bulldogs","Fremantle",6749
+"2016-03-27_R1_Port Adelaide-v-St Kilda",2016,1,"Port Adelaide","St Kilda",8269
+"2016-03-27_R1_West Coast-v-Brisbane Lions",2016,1,"West Coast","Brisbane",7872
+"2016-03-28_R1_Geelong-v-Hawthorn",2016,1,"Geelong","Hawthorn",7731
+"2016-04-01_R2_Collingwood-v-Richmond",2016,2,"Collingwood","Richmond",7015
+"2016-04-02_R2_Adelaide-v-Port Adelaide",2016,2,"Adelaide","Port Adelaide",7989
+"2016-04-02_R2_Essendon-v-Melbourne",2016,2,"Essendon","Melbourne",6935
+"2016-04-02_R2_Brisbane Lions-v-North Melbourne",2016,2,"Brisbane","North Melbourne",7395
+"2016-04-02_R2_St Kilda-v-Western Bulldogs",2016,2,"St Kilda","Western Bulldogs",6671
+"2016-04-02_R2_Fremantle-v-Gold Coast",2016,2,"Fremantle","Gold Coast",7408
+"2016-04-03_R2_Greater Western Sydney-v-Geelong",2016,2,"Greater Western Sydney","Geelong",7156
+"2016-04-03_R2_Hawthorn-v-West Coast",2016,2,"Hawthorn","West Coast",7185
+"2016-04-03_R2_Carlton-v-Sydney",2016,2,"Carlton","Sydney",7087
+"2016-04-08_R3_Port Adelaide-v-Essendon",2016,3,"Port Adelaide","Essendon",7243
+"2016-04-09_R3_St Kilda-v-Collingwood",2016,3,"St Kilda","Collingwood",7259
+"2016-04-09_R3_Richmond-v-Adelaide",2016,3,"Richmond","Adelaide",7252
+"2016-04-09_R3_Sydney-v-Greater Western Sydney",2016,3,"Sydney","Greater Western Sydney",7368
+"2016-04-09_R3_West Coast-v-Fremantle",2016,3,"West Coast","Fremantle",7266
+"2016-04-10_R3_North Melbourne-v-Melbourne",2016,3,"North Melbourne","Melbourne",8449
+"2016-04-10_R3_Western Bulldogs-v-Hawthorn",2016,3,"Western Bulldogs","Hawthorn",7404
+"2016-04-10_R3_Geelong-v-Brisbane Lions",2016,3,"Geelong","Brisbane",7430
+"2016-04-15_R4_West Coast-v-Richmond",2016,4,"West Coast","Richmond",7229
+"2016-04-16_R4_Essendon-v-Geelong",2016,4,"Essendon","Geelong",6527
+"2016-04-16_R4_Hawthorn-v-St Kilda",2016,4,"Hawthorn","St Kilda",7168
+"2016-04-16_R4_Brisbane Lions-v-Gold Coast",2016,4,"Brisbane","Gold Coast",8034
+"2016-04-16_R4_Carlton-v-Western Bulldogs",2016,4,"Carlton","Western Bulldogs",7052
+"2016-04-16_R4_Adelaide-v-Sydney",2016,4,"Adelaide","Sydney",7537
+"2016-04-17_R4_Collingwood-v-Melbourne",2016,4,"Collingwood","Melbourne",7069
+"2016-04-17_R4_North Melbourne-v-Fremantle",2016,4,"North Melbourne","Fremantle",7388
+"2016-04-22_R5_Hawthorn-v-Adelaide",2016,5,"Hawthorn","Adelaide",7494
+"2016-04-23_R5_Sydney-v-West Coast",2016,5,"Sydney","West Coast",6879
+"2016-04-23_R5_Gold Coast-v-North Melbourne",2016,5,"Gold Coast","North Melbourne",7130
+"2016-04-23_R5_Western Bulldogs-v-Brisbane Lions",2016,5,"Western Bulldogs","Brisbane",6992
+"2016-04-23_R5_Port Adelaide-v-Geelong",2016,5,"Port Adelaide","Geelong",7422
+"2016-04-24_R5_St Kilda-v-Greater Western Sydney",2016,5,"St Kilda","Greater Western Sydney",7246
+"2016-04-24_R5_Fremantle-v-Carlton",2016,5,"Fremantle","Carlton",7192
+"2016-04-24_R5_Melbourne-v-Richmond",2016,5,"Melbourne","Richmond",7875
+"2016-04-25_R5_Collingwood-v-Essendon",2016,5,"Collingwood","Essendon",7457
+"2016-04-29_R6_North Melbourne-v-Western Bulldogs",2016,6,"North Melbourne","Western Bulldogs",6823
+"2016-04-30_R6_Melbourne-v-St Kilda",2016,6,"Melbourne","St Kilda",7445
+"2016-04-30_R6_Adelaide-v-Fremantle",2016,6,"Adelaide","Fremantle",7009
+"2016-04-30_R6_Geelong-v-Gold Coast",2016,6,"Geelong","Gold Coast",7364
+"2016-04-30_R6_Richmond-v-Port Adelaide",2016,6,"Richmond","Port Adelaide",7126
+"2016-05-01_R6_Brisbane Lions-v-Sydney",2016,6,"Brisbane","Sydney",7342
+"2016-05-01_R6_Carlton-v-Essendon",2016,6,"Carlton","Essendon",6819
+"2016-05-01_R6_West Coast-v-Collingwood",2016,6,"West Coast","Collingwood",7438
+"2016-05-06_R7_Richmond-v-Hawthorn",2016,7,"Richmond","Hawthorn",7497
+"2016-05-07_R7_Collingwood-v-Carlton",2016,7,"Collingwood","Carlton",7289
+"2016-05-07_R7_Geelong-v-West Coast",2016,7,"Geelong","West Coast",7409
+"2016-05-07_R7_Sydney-v-Essendon",2016,7,"Sydney","Essendon",7034
+"2016-05-07_R7_Gold Coast-v-Melbourne",2016,7,"Gold Coast","Melbourne",7566
+"2016-05-07_R7_Western Bulldogs-v-Adelaide",2016,7,"Western Bulldogs","Adelaide",7119
+"2016-05-07_R7_Fremantle-v-Greater Western Sydney",2016,7,"Fremantle","Greater Western Sydney",7577
+"2016-05-08_R7_St Kilda-v-North Melbourne",2016,7,"St Kilda","North Melbourne",6952
+"2016-05-08_R7_Port Adelaide-v-Brisbane Lions",2016,7,"Port Adelaide","Brisbane",7793
+"2016-05-13_R8_Adelaide-v-Geelong",2016,8,"Adelaide","Geelong",7435
+"2016-05-14_R8_Essendon-v-North Melbourne",2016,8,"Essendon","North Melbourne",7064
+"2016-05-14_R8_Hawthorn-v-Fremantle",2016,8,"Hawthorn","Fremantle",7478
+"2016-05-14_R8_Brisbane Lions-v-Collingwood",2016,8,"Brisbane","Collingwood",7316
+"2016-05-14_R8_Richmond-v-Sydney",2016,8,"Richmond","Sydney",7056
+"2016-05-15_R8_Carlton-v-Port Adelaide",2016,8,"Carlton","Port Adelaide",7388
+"2016-05-15_R8_Melbourne-v-Western Bulldogs",2016,8,"Melbourne","Western Bulldogs",7400
+"2016-05-15_R8_West Coast-v-St Kilda",2016,8,"West Coast","St Kilda",7405
+"2016-05-20_R9_Hawthorn-v-Sydney",2016,9,"Hawthorn","Sydney",7060
+"2016-05-21_R9_Collingwood-v-Geelong",2016,9,"Collingwood","Geelong",6942
+"2016-05-21_R9_Gold Coast-v-Adelaide",2016,9,"Gold Coast","Adelaide",7162
+"2016-05-21_R9_Port Adelaide-v-West Coast",2016,9,"Port Adelaide","West Coast",7651
+"2016-05-21_R9_North Melbourne-v-Carlton",2016,9,"North Melbourne","Carlton",7071
+"2016-05-21_R9_Fremantle-v-Richmond",2016,9,"Fremantle","Richmond",7311
+"2016-05-22_R9_Melbourne-v-Brisbane Lions",2016,9,"Melbourne","Brisbane",7312
+"2016-05-22_R9_Greater Western Sydney-v-Western Bulldogs",2016,9,"Greater Western Sydney","Western Bulldogs",7487
+"2016-05-22_R9_St Kilda-v-Essendon",2016,9,"St Kilda","Essendon",6980
+"2016-05-27_R10_Sydney-v-North Melbourne",2016,10,"Sydney","North Melbourne",7237
+"2016-05-28_R10_Brisbane Lions-v-Hawthorn",2016,10,"Brisbane","Hawthorn",7590
+"2016-05-28_R10_Melbourne-v-Port Adelaide",2016,10,"Melbourne","Port Adelaide",7266
+"2016-05-28_R10_St Kilda-v-Fremantle",2016,10,"St Kilda","Fremantle",7370
+"2016-05-28_R10_Essendon-v-Richmond",2016,10,"Essendon","Richmond",7137
+"2016-05-28_R10_Adelaide-v-Greater Western Sydney",2016,10,"Adelaide","Greater Western Sydney",7760
+"2016-05-29_R10_Carlton-v-Geelong",2016,10,"Carlton","Geelong",7438
+"2016-05-29_R10_Collingwood-v-Western Bulldogs",2016,10,"Collingwood","Western Bulldogs",6408
+"2016-05-29_R10_West Coast-v-Gold Coast",2016,10,"West Coast","Gold Coast",7261
+"2016-06-03_R11_North Melbourne-v-Richmond",2016,11,"North Melbourne","Richmond",7725
+"2016-06-04_R11_Hawthorn-v-Melbourne",2016,11,"Hawthorn","Melbourne",7129
+"2016-06-04_R11_Carlton-v-Brisbane Lions",2016,11,"Carlton","Brisbane",7172
+"2016-06-04_R11_Geelong-v-Greater Western Sydney",2016,11,"Geelong","Greater Western Sydney",7608
+"2016-06-04_R11_Gold Coast-v-Sydney",2016,11,"Gold Coast","Sydney",7005
+"2016-06-04_R11_Fremantle-v-Essendon",2016,11,"Fremantle","Essendon",7243
+"2016-06-05_R11_Collingwood-v-Port Adelaide",2016,11,"Collingwood","Port Adelaide",6809
+"2016-06-05_R11_Western Bulldogs-v-West Coast",2016,11,"Western Bulldogs","West Coast",6856
+"2016-06-05_R11_Adelaide-v-St Kilda",2016,11,"Adelaide","St Kilda",7382
+"2016-06-10_R12_Essendon-v-Hawthorn",2016,12,"Essendon","Hawthorn",7118
+"2016-06-11_R12_Port Adelaide-v-Western Bulldogs",2016,12,"Port Adelaide","Western Bulldogs",7454
+"2016-06-11_R12_Brisbane Lions-v-Fremantle",2016,12,"Brisbane","Fremantle",7359
+"2016-06-11_R12_Geelong-v-North Melbourne",2016,12,"Geelong","North Melbourne",7255
+"2016-06-11_R12_West Coast-v-Adelaide",2016,12,"West Coast","Adelaide",7352
+"2016-06-12_R12_St Kilda-v-Carlton",2016,12,"St Kilda","Carlton",7295
+"2016-06-12_R12_Richmond-v-Gold Coast",2016,12,"Richmond","Gold Coast",7549
+"2016-06-12_R12_Greater Western Sydney-v-Sydney",2016,12,"Greater Western Sydney","Sydney",7245
+"2016-06-13_R12_Melbourne-v-Collingwood",2016,12,"Melbourne","Collingwood",7047
+"2016-06-17_R13_North Melbourne-v-Hawthorn",2016,13,"North Melbourne","Hawthorn",7456
+"2016-06-18_R13_Brisbane Lions-v-West Coast",2016,13,"Brisbane","West Coast",7516
+"2016-06-18_R13_Fremantle-v-Port Adelaide",2016,13,"Fremantle","Port Adelaide",7383
+"2016-06-18_R13_Western Bulldogs-v-Geelong",2016,13,"Western Bulldogs","Geelong",6691
+"2016-06-19_R13_Sydney-v-Melbourne",2016,13,"Sydney","Melbourne",7029
+"2016-06-19_R13_Essendon-v-Greater Western Sydney",2016,13,"Essendon","Greater Western Sydney",7454
+"2016-06-23_R14_Adelaide-v-North Melbourne",2016,14,"Adelaide","North Melbourne",7667
+"2016-06-24_R14_Collingwood-v-Fremantle",2016,14,"Collingwood","Fremantle",6827
+"2016-06-25_R14_Richmond-v-Brisbane Lions",2016,14,"Richmond","Brisbane",7013
+"2016-06-25_R14_Greater Western Sydney-v-Carlton",2016,14,"Greater Western Sydney","Carlton",7721
+"2016-06-25_R14_St Kilda-v-Geelong",2016,14,"St Kilda","Geelong",7091
+"2016-06-26_R14_Hawthorn-v-Gold Coast",2016,14,"Hawthorn","Gold Coast",6816
+"2016-06-30_R15_West Coast-v-Essendon",2016,15,"West Coast","Essendon",7258
+"2016-07-01_R15_Port Adelaide-v-Richmond",2016,15,"Port Adelaide","Richmond",7503
+"2016-07-02_R15_Gold Coast-v-St Kilda",2016,15,"Gold Coast","St Kilda",6892
+"2016-07-02_R15_Sydney-v-Western Bulldogs",2016,15,"Sydney","Western Bulldogs",6992
+"2016-07-02_R15_Carlton-v-Collingwood",2016,15,"Carlton","Collingwood",6677
+"2016-07-03_R15_Melbourne-v-Adelaide",2016,15,"Melbourne","Adelaide",7425
+"2016-07-07_R16_Port Adelaide-v-Hawthorn",2016,16,"Port Adelaide","Hawthorn",7797
+"2016-07-08_R16_Geelong-v-Sydney",2016,16,"Geelong","Sydney",6964
+"2016-07-09_R16_Greater Western Sydney-v-Collingwood",2016,16,"Greater Western Sydney","Collingwood",7331
+"2016-07-09_R16_Gold Coast-v-Brisbane Lions",2016,16,"Gold Coast","Brisbane",7647
+"2016-07-09_R16_Western Bulldogs-v-Richmond",2016,16,"Western Bulldogs","Richmond",6977
+"2016-07-09_R16_Melbourne-v-Fremantle",2016,16,"Melbourne","Fremantle",7207
+"2016-07-10_R16_Carlton-v-Adelaide",2016,16,"Carlton","Adelaide",6997
+"2016-07-10_R16_West Coast-v-North Melbourne",2016,16,"West Coast","North Melbourne",7685
+"2016-07-10_R16_Essendon-v-St Kilda",2016,16,"Essendon","St Kilda",7469
+"2016-07-14_R17_Sydney-v-Hawthorn",2016,17,"Sydney","Hawthorn",7086
+"2016-07-15_R17_Fremantle-v-Geelong",2016,17,"Fremantle","Geelong",7303
+"2016-07-16_R17_Richmond-v-Essendon",2016,17,"Richmond","Essendon",7123
+"2016-07-16_R17_North Melbourne-v-Port Adelaide",2016,17,"North Melbourne","Port Adelaide",7019
+"2016-07-16_R17_Western Bulldogs-v-Gold Coast",2016,17,"Western Bulldogs","Gold Coast",6860
+"2016-07-16_R17_Adelaide-v-Collingwood",2016,17,"Adelaide","Collingwood",7103
+"2016-07-17_R17_Carlton-v-West Coast",2016,17,"Carlton","West Coast",7154
+"2016-07-17_R17_St Kilda-v-Melbourne",2016,17,"St Kilda","Melbourne",7233
+"2016-07-17_R17_Brisbane Lions-v-Greater Western Sydney",2016,17,"Brisbane","Greater Western Sydney",7647
+"2016-07-22_R18_Collingwood-v-North Melbourne",2016,18,"Collingwood","North Melbourne",7522
+"2016-07-23_R18_Sydney-v-Carlton",2016,18,"Sydney","Carlton",7346
+"2016-07-23_R18_Gold Coast-v-Fremantle",2016,18,"Gold Coast","Fremantle",7298
+"2016-07-23_R18_West Coast-v-Melbourne",2016,18,"West Coast","Melbourne",7214
+"2016-07-23_R18_Geelong-v-Adelaide",2016,18,"Geelong","Adelaide",7134
+"2016-07-23_R18_Western Bulldogs-v-St Kilda",2016,18,"Western Bulldogs","St Kilda",7087
+"2016-07-24_R18_Essendon-v-Brisbane Lions",2016,18,"Essendon","Brisbane",7221
+"2016-07-24_R18_Hawthorn-v-Richmond",2016,18,"Hawthorn","Richmond",6866
+"2016-07-24_R18_Port Adelaide-v-Greater Western Sydney",2016,18,"Port Adelaide","Greater Western Sydney",7720
+"2016-07-29_R19_Geelong-v-Western Bulldogs",2016,19,"Geelong","Western Bulldogs",7311
+"2016-07-30_R19_Hawthorn-v-Carlton",2016,19,"Hawthorn","Carlton",6632
+"2016-07-30_R19_Collingwood-v-West Coast",2016,19,"Collingwood","West Coast",6972
+"2016-07-30_R19_North Melbourne-v-St Kilda",2016,19,"North Melbourne","St Kilda",6785
+"2016-07-30_R19_Brisbane Lions-v-Port Adelaide",2016,19,"Brisbane","Port Adelaide",7670
+"2016-07-31_R19_Melbourne-v-Gold Coast",2016,19,"Melbourne","Gold Coast",6865
+"2016-07-31_R19_Fremantle-v-Sydney",2016,19,"Fremantle","Sydney",7418
+"2016-07-31_R19_Adelaide-v-Essendon",2016,19,"Adelaide","Essendon",7531
+"2016-08-05_R20_Richmond-v-Collingwood",2016,20,"Richmond","Collingwood",7003
+"2016-08-06_R20_Sydney-v-Port Adelaide",2016,20,"Sydney","Port Adelaide",6690
+"2016-08-06_R20_Melbourne-v-Hawthorn",2016,20,"Melbourne","Hawthorn",7283
+"2016-08-06_R20_Gold Coast-v-Greater Western Sydney",2016,20,"Gold Coast","Greater Western Sydney",7015
+"2016-08-06_R20_Western Bulldogs-v-North Melbourne",2016,20,"Western Bulldogs","North Melbourne",6645
+"2016-08-06_R20_Adelaide-v-Brisbane Lions",2016,20,"Adelaide","Brisbane",7474
+"2016-08-07_R20_Carlton-v-St Kilda",2016,20,"Carlton","St Kilda",6930
+"2016-08-07_R20_Geelong-v-Essendon",2016,20,"Geelong","Essendon",6718
+"2016-08-07_R20_Fremantle-v-West Coast",2016,20,"Fremantle","West Coast",7106
+"2016-08-12_R21_Western Bulldogs-v-Collingwood",2016,21,"Western Bulldogs","Collingwood",7311
+"2016-08-13_R21_Brisbane Lions-v-Carlton",2016,21,"Brisbane","Carlton",7285
+"2016-08-13_R21_Hawthorn-v-North Melbourne",2016,21,"Hawthorn","North Melbourne",7085
+"2016-08-13_R21_Greater Western Sydney-v-West Coast",2016,21,"Greater Western Sydney","West Coast",7982
+"2016-08-13_R21_St Kilda-v-Sydney",2016,21,"St Kilda","Sydney",7404
+"2016-08-13_R21_Port Adelaide-v-Melbourne",2016,21,"Port Adelaide","Melbourne",7214
+"2016-08-14_R21_Essendon-v-Gold Coast",2016,21,"Essendon","Gold Coast",6702
+"2016-08-14_R21_Richmond-v-Geelong",2016,21,"Richmond","Geelong",6888
+"2016-08-14_R21_Fremantle-v-Adelaide",2016,21,"Fremantle","Adelaide",7444
+"2016-08-19_R22_West Coast-v-Hawthorn",2016,22,"West Coast","Hawthorn",7366
+"2016-08-20_R22_North Melbourne-v-Sydney",2016,22,"North Melbourne","Sydney",6938
+"2016-08-20_R22_Richmond-v-St Kilda",2016,22,"Richmond","St Kilda",6673
+"2016-08-20_R22_Collingwood-v-Gold Coast",2016,22,"Collingwood","Gold Coast",7268
+"2016-08-20_R22_Port Adelaide-v-Adelaide",2016,22,"Port Adelaide","Adelaide",7852
+"2016-08-21_R22_Carlton-v-Melbourne",2016,22,"Carlton","Melbourne",6693
+"2016-08-21_R22_Brisbane Lions-v-Geelong",2016,22,"Brisbane","Geelong",7433
+"2016-08-21_R22_Essendon-v-Western Bulldogs",2016,22,"Essendon","Western Bulldogs",6895
+"2016-08-26_R23_Adelaide-v-West Coast",2016,23,"Adelaide","West Coast",7219
+"2016-08-27_R23_Geelong-v-Melbourne",2016,23,"Geelong","Melbourne",7366
+"2016-08-27_R23_Essendon-v-Carlton",2016,23,"Essendon","Carlton",6826
+"2016-08-27_R23_Sydney-v-Richmond",2016,23,"Sydney","Richmond",7201
+"2016-08-27_R23_North Melbourne-v-Greater Western Sydney",2016,23,"North Melbourne","Greater Western Sydney",7166
+"2016-08-27_R23_Gold Coast-v-Port Adelaide",2016,23,"Gold Coast","Port Adelaide",6965
+"2016-08-28_R23_St Kilda-v-Brisbane Lions",2016,23,"St Kilda","Brisbane",7699
+"2016-08-28_R23_Hawthorn-v-Collingwood",2016,23,"Hawthorn","Collingwood",7284
+"2016-08-28_R23_Fremantle-v-Western Bulldogs",2016,23,"Fremantle","Western Bulldogs",6857
